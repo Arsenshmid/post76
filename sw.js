@@ -1,5 +1,5 @@
 // Карточки 76п — офлайн-кэш (stale-while-revalidate)
-const CACHE = "nto76-v1";
+const CACHE = "nto76-v2";
 const ASSETS = ["./", "./index.html"];
 
 self.addEventListener("install", (e) => {
